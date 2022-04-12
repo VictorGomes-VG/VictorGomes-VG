@@ -8,8 +8,8 @@
 - 🚀 Buscando sempre aprimorar meu conhecimento
 - 📱 Aprendendo sobre React e Next.Js
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-borba-boos-a0a71b203/)](https://www.linkedin.com/in/victorgomes-vg/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_borbaboos/)](https://www.instagram.com/victor_h_gomes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VictorGomes-VG-a0a71b203/)](https://www.linkedin.com/in/victorgomes-vg/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/VictorGomes/)](https://www.instagram.com/victor_h_gomes/)
 [![Gmail Badge](https://img.shields.io/badge/-victor.hugo.prado.gomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.hugo.prado.gomes@gmail.com)](mailto:victor.hugo.prado.gomes@gmail.com)
 
 🚀💻 Technologies & Tools 
@@ -36,7 +36,7 @@
 ## ⚡ GitHub Stats
 
 <p align='center'>
-  <a href="https://github.com/NatanBB">
+  <a href="https://github.com/VictorGomes-VG">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes-VG&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes-VG&hide=TeX&theme=tokyonight&layout=compact" />
 
