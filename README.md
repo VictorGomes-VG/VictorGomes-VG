@@ -31,15 +31,3 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-## ⚡ GitHub Stats
-
-<p align='center'>
-  <a href="https://github.com/VictorGomes-VG">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes-VG&show_icons=true&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes-VG&hide=TeX&theme=tokyonight&layout=compact" />
-
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</p>
