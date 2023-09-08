@@ -6,7 +6,7 @@
 - 🎓 Cursando Bacharelado em Sistemas de Informação
 - 👨‍💻 Desenvolvedor FullStack
 - 🚀 Buscando sempre aprimorar meu conhecimento
-- 📱 Aprendendo sobre React e Next.Js
+- 📱 .NET | C# | Javascript | React.JS | Next.js | Typescript | Node | SQL | Acanto
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VictorGomes-VG-a0a71b203/)](https://www.linkedin.com/in/victorgomes-vg/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/VictorGomes/)](https://www.instagram.com/victor_h_gomes/)
