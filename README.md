@@ -3,7 +3,7 @@
 <h1 align = "justify"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Victor Hugo Prado Gomes! </h1>
 <h3>Bem Vindo ao meu GitHub!🚀</h3>
 
-- 🎓 Cursando Bacharelado em Sistemas de Informação
+- 🎓 Cursando Bacharelado em Ciência da Computação
 - 👨‍💻 Desenvolvedor FullStack
 - 🚀 Buscando sempre aprimorar meu conhecimento
 - 📱 .NET | C# | Javascript | React.JS | Next.js | Typescript | Node | SQL | Acanto
